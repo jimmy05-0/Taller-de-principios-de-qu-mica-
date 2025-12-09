@@ -1,125 +1,124 @@
-Taller de principios de química 
-# 1. Mecanismos de acción catalítica
-
-## 1.1 Modelo Llave–Candado (Key–Lock)
-
-### Definición
-Propuesto por Emil Fischer. Plantea que el sitio activo de la enzima es rígido y encaja perfectamente con el sustrato, como una llave en una cerradura.
-
-### Características
-- Alta especificidad.
-- No hay cambios en la forma del sitio activo.
-- Solo moléculas con forma complementaria se unen.
-
-### Ejemplo de aplicación
-La **ureasa** solo cataliza la hidrólisis de la urea porque su forma coincide exactamente con el sitio activo.
+# Taller 1
+## Universidad Nacional de Colombia
+## Principios de Química
+## Estudiantes: [Dejar espacio para completar]
 
 ---
 
-## 1.2 Modelo de Ajuste Inducido
+## 1.  Mecanismos de Acción Catalítica
 
-### Definición
-Propuesto por Koshland. El sitio activo es flexible: cambia su estructura al acercarse el sustrato, adaptándose para envolverlo.
+Las **enzimas** son macromoléculas (principalmente proteínas) que actúan como **catalizadores biológicos**. Su función esencial es acelerar drásticamente la velocidad de las reacciones químicas celulares (hasta $10^{17}$ veces), lográndolo al disminuir la **energía de activación ($E_a$)** de la reacción, sin ser consumidas en el proceso.
 
-### Características
-- El sitio activo cambia de forma.
-- Acepta moléculas similares.
-- Explica mejor el comportamiento real de las enzimas.
+### 1.1 Modelo Llave–Candado (Key–Lock) 🔑
 
-### Ejemplo de aplicación
-La **hexoquinasa** cambia de conformación al unirse a la glucosa.
+* **Definición:** Propuesto por **Emil Fischer** en 1894, postula que el **sitio activo** de la enzima posee una estructura tridimensional **rígida** y estática, cuya forma geométrica es **perfectamente complementaria** a la del sustrato, como una **llave (sustrato)** que solo puede encajar en una **cerradura (sitio activo)** específica.
+
+* **Características:**
+    * **Alta Especificidad Absoluta:** La enzima está diseñada para interactuar con un único tipo de sustrato.
+    * **Rigidez Conformacional:** Se asume que no hay cambios estructurales significativos en el sitio activo tras la unión del sustrato.
+    * **Unión por Complementariedad Preexistente:** La forma geométrica óptima ya existe en la enzima antes del acoplamiento.
+
+* **Ejemplo de Aplicación:** La **ureasa** exhibe esta alta especificidad, catalizando únicamente la hidrólisis de la **urea**, ya que su sitio activo es *estereoespecífico* y *geoespecífico* exclusivamente para esta molécula.
+
+<div style="clear: both;"></div>
+---
+
+### 1.2 Modelo de Ajuste Inducido (Induced Fit) 
+
+* **Definición:** Propuesto por **Daniel Koshland Jr.** en 1958, sostiene que el sitio activo no es estático, sino **flexible y dinámico**. La llegada y unión inicial del sustrato **induce un cambio conformacional** en la estructura de la enzima, reestructurando y **optimizando el sitio activo** para **"envolver"** y ajustarse mejor al sustrato.
+
+* **Características:**
+    * **Flexibilidad Conformacional:** La enzima experimenta un reordenamiento de los dominios proteicos o de los grupos laterales de aminoácidos tras la unión.
+    * **Especificidad Relativa:** Permite que la enzima acepte **moléculas similares** (análogos) que puedan inducir el cambio conformacional.
+    * **Mecanismo de Catálisis Activa:** La energía liberada por el cambio conformacional contribuye a la **estabilización del estado de transición**.
+
+* **Ejemplo de Aplicación:** La **hexoquinasa** se pliega alrededor de la **glucosa** tras la unión, excluyendo el agua del sitio activo, lo cual es crucial para asegurar la **fosforilación** específica y prevenir la hidrólisis.
+
+<div style="clear: both;"></div>
+---
+
+### 1.3 Sitio Inducido (Complemento)
+
+* **Definición:** El **cambio conformacional** provocado por la unión del sustrato es lo que **crea la estructura catalíticamente activa** (el **sitio inducido**), optimizando la catálisis. El sustrato es necesario para **"activar"** completamente la maquinaria catalítica.
 
 ---
 
-## 1.3 Sitio inducido
-Este concepto complementa el ajuste inducido: los cambios conformacionales crean un sitio perfecto de unión tras la llegada del sustrato.
-# 2. Mecanismos de degradación catalítica
+## 2.  Mecanismos de Degradación y Regulación Catalítica
 
-## 2.1 Saturación catalítica
+Estos mecanismos se centran en los factores que limitan o detienen la acción enzimática.
 
-### Definición
-Ocurre cuando los sitios activos de la enzima están todos ocupados debido a la alta concentración de sustrato. La velocidad llega a un máximo (Vmax).
+### 2.1 Saturación Catalítica
 
-### Ejemplo
-La **glucoquinasa** se satura cuando hay mucha glucosa, y no puede aumentar su velocidad pese a más sustrato.
+* **Definición:** Ocurre cuando la **concentración de sustrato ([S])** es tan alta que **todos los sitios activos** están **ocupados continuamente** (E-S). El paso limitante es la conversión del E-S a producto.
 
----
+* **Consecuencia:** La **velocidad de reacción (V)** alcanza su máximo teórico, denominado **Velocidad Máxima ($V_{max}$)**, independientemente de la adición de más sustrato.
 
-## 2.2 Envenenamiento catalítico
-
-### Definición
-Consiste en la inhibición de un catalizador por sustancias tóxicas que se unen a él e impiden su funcionamiento.
-
-### Ejemplos
-- El **cianuro** inhibe irreversiblemente a la enzima citocromo c oxidasa.
-- Veneno industrial que inactiva catalizadores metálicos.
+* **Ejemplo:** La **glucoquinasa** en las células hepáticas se satura con glucosa en condiciones de alta glucemia, limitando la velocidad de almacenamiento.
 
 ---
 
-## 2.3 Bloqueo catalítico
+### 2.2 Envenenamiento Catalítico (Inhibición Irreversible)
 
-### Definición
-Un compuesto se une al sitio activo sin reaccionar con la enzima, ocupándolo e impidiendo que el sustrato verdadero se una.
+* **Definición:** **Inactivación permanente** de una enzima por una **sustancia tóxica** (el veneno) que se une **irreversiblemente** (a menudo mediante un enlace **covalente**) a un grupo esencial.
 
-### Ejemplo
-El **metanol** compite con el etanol por la alcohol deshidrogenasa, bloqueando temporalmente su acción.
-# 3. Modelos cinéticos
-
-## 3.1 Modelo Michaelis–Menten
-
-### Definición
-Modelo que describe cómo varía la velocidad de una reacción enzimática según la concentración del sustrato.
-
-### Ecuación
-V = (Vmax [S]) / (Km + [S])
-
-### Parámetros
-- **Km**: afinidad de la enzima por el sustrato.
-- **Vmax**: velocidad máxima cuando la enzima está saturada.
-
-### Ejemplo
-Cálculo de la cinética de la **lactato deshidrogenasa** en laboratorio.
+* **Ejemplos:**
+    * El **cianuro** ($CN^-$) se une al **hierro hémico ($Fe^{2+}$)** en el sitio activo de la enzima **citocromo c oxidasa**, bloqueando la respiración celular.
+    * Los **organofosforados** (pesticidas) inhiben irreversiblemente la enzima **acetilcolinesterasa**.
 
 ---
 
-## 3.2 Modelo Lineweaver–Burke
+### 2.3 Bloqueo Catalítico (Inhibición Competitiva)
 
-### Definición
-Versión linealizada de Michaelis–Menten para obtener Km y Vmax más fácilmente usando una gráfica de doble recíproco.
+* **Definición:** **Inhibición reversible** en la que un **compuesto inhibidor ($I$)** estructuralmente similar al sustrato ($S$) **compite** directamente por el **sitio activo**, bloqueándolo temporalmente.
 
-### Ecuación
-1/V = (Km/Vmax)(1/[S]) + 1/Vmax
+* **Efecto Cinético:** La $V_{max}$ **no cambia**, pero la **$K_m$ aparente aumenta**.
 
-### Ejemplo
-Útil para identificar inhibición competitiva y no competitiva.
+* **Ejemplo:** El **etanol** se administra para tratar la intoxicación por **metanol**, ya que actúa como un **inhibidor competitivo** de la enzima **alcohol deshidrogenasa (ADH)**, ralentizando el metabolismo del metanol tóxico.
 
 ---
 
-## 3.3 Pseudo–cinética de reacción
+## 3.  Modelos Cinéticos (Cuantificando la Acción Enzimática)
 
-### Definición
-Se usa cuando un reactivo está en gran exceso, permitiendo simplificar la cinética y tratar la reacción como de primer orden respecto a un solo componente.
+### 3.1 Modelo Michaelis–Menten
 
-### Ejemplo
-Reacciones enzimáticas en medio acuoso donde el agua es tan abundante que su concentración se considera constante.
-# Referencias
+* **Definición:** Describe la **relación hiperbólica** entre la **velocidad inicial ($V_0$)** y la **concentración de sustrato ([S])**, bajo la asunción clave del **estado estacionario**.
 
-Berg, J. M., Tymoczko, J. L., & Stryer, L. (2015). *Bioquímica* (8.ª ed.). Reverté.
+* **Ecuación:** La ecuación clave derivada de este modelo es:
+    $$V = \frac{V_{max} [S]}{K_m + [S]}$$
+    ![Gráfico de Michaelis-Menten mostrando la velocidad inicial versus la concentración de sustrato, con etiquetas para Vmax y Km](ruta/a/la/imagen_michaelis_menten.png)
 
-Nelson, D. L., & Cox, M. M. (2017). *Lehninger: Principios de Bioquímica* (7.ª ed.). Omega.
+* **Parámetros:**
+    * **$V_{max}$ (Velocidad Máxima):** Velocidad teórica máxima que se alcanza cuando la enzima está completamente saturada.
+    * **$K_m$ (Constante de Michaelis):** Concentración de sustrato a la cual la velocidad es la **mitad de la $V_{max}$**. Se usa como medida inversa de la **afinidad**.
 
-Voet, D., Voet, J. G., & Pratt, C. W. (2016). *Fundamentos de Bioquímica: La vida a nivel molecular* (5.ª ed.). Wiley.
+* **Ejemplo:** El modelo se aplica para determinar los parámetros cinéticos de cualquier enzima purificada, como la **lactato deshidrogenasa**.
 
-Segel, I. H. (1993). *Enzyme Kinetics: Behavior and Analysis of Rapid Equilibrium and Steady-State Enzyme Systems*. Wiley-Interscience.
+---
 
-Cornish-Bowden, A. (2013). *Fundamentals of Enzyme Kinetics* (4th ed.). Wiley-Blackwell.
+### 3.2 Modelo Lineweaver–Burke
 
-Fersht, A. (2017). *Structure and Mechanism in Protein Science: A Guide to Enzyme Catalysis and Protein Folding*. World Scientific.
+* **Definición:** Conocida como la **gráfica de doble recíproco**, es una **linealización** de la Ecuación de Michaelis–Menten (graficando $\frac{1}{V}$ versus $\frac{1}{[S]}$) para facilitar la determinación precisa de $V_{max}$ y $K_m$.
 
-Koshland, D. E. (1958). Application of a theory of enzyme specificity to protein synthesis. *Proceedings of the National Academy of Sciences*, 44(2), 98–104.
+* **Ecuación:** La ecuación resultante es la de una línea recta:
+    $$\frac{1}{V} = \left(\frac{K_m}{V_{max}}\right) \left(\frac{1}{[S]}\right) + \frac{1}{V_{max}}$$
+    ![Gráfico de Lineweaver-Burke mostrando la linealización de la cinética enzimática y la determinación de Km y Vmax](ruta/a/la/imagen_lineweaver_burke.png)
 
-Michaelis, L., & Menten, M. L. (1913). Die Kinetik der Invertinwirkung. *Biochemische Zeitschrift*, 49, 333–369.
+* **Utilidad:** Es la herramienta visual estándar para **identificar y distinguir** los diferentes tipos de **inhibición enzimática** (competitiva, no competitiva, acompetitiva).
 
-Lineweaver, H., & Burk, D. (1934). The determination of enzyme dissociation constants. *Journal of the American Chemical Society*, 56(3), 658–666.
+---
 
-Holt, B. D. (2001). Catalytic poisoning and inhibition mechanisms in heterogeneous catalysis. *Catalysis Reviews*, 43(1-2), 255–279.
+### 3.3 Pseudo–cinética de Reacción
+
+* **Definición:** Simplificación experimental donde la concentración de **uno de los reactivos** está en un **exceso considerable**, por lo que se considera **constante**, permitiendo tratar la reacción como de **primer orden** respecto al componente limitante.
+
+* **Ejemplo:** La **hidrólisis** catalizada por enzimas en **solución acuosa** se trata como reacción de **pseudo-primer orden** respecto al sustrato debido al exceso constante de **agua** ($\sim 55.5M$).
+
+---
+
+## 📚 Referencias Bibliográficas
+
+Para la profundización de los conceptos de cinética y acción enzimática, se consultaron las siguientes fuentes académicas primarias y secundarias:
+
+1.  **Berg, J. M., Tymoczko, J. L., & Stryer, L.** (2015). **Bioquímica** (8.ª ed.). Editorial Reverté. (Capítulos 8 y 13: Enzimas y Cinética).
+2.  **Nelson, D. L., & Cox, M. M.** (2021). **Lehninger Principles of Biochemistry** (8.ª ed.). W. H. Freeman and Company. (Capítulo 6: Enzimas).
+3.  **Koshland, D. E.** (1958). Application of a Theory of Enzyme Specificity to Protein Synthesis. **Proceedings of the National Academy of Sciences (PNAS)**, 44(2), 98–104. (Referencia original del modelo de Ajuste Inducido).
