@@ -1,7 +1,9 @@
 # Taller 1
 ## Universidad Nacional de Colombia
 ## Principios de Química
-## Estudiantes: [Dejar espacio para completar]
+## Estudiantes: 
+## Jimmy Fernando Correales Ruiz 
+## Sebastian Escobar Castellanos
 
 ---
 
