@@ -87,7 +87,6 @@ Estos mecanismos se centran en los factores que limitan o detienen la acción en
 
 * **Ecuación:** La ecuación clave derivada de este modelo es:
     $$V = \frac{V_{max} [S]}{K_m + [S]}$$
-    ![Gráfico de Michaelis-Menten mostrando la velocidad inicial versus la concentración de sustrato, con etiquetas para Vmax y Km](ruta/a/la/imagen_michaelis_menten.png)
 
 * **Parámetros:**
     * **$V_{max}$ (Velocidad Máxima):** Velocidad teórica máxima que se alcanza cuando la enzima está completamente saturada.
@@ -103,7 +102,6 @@ Estos mecanismos se centran en los factores que limitan o detienen la acción en
 
 * **Ecuación:** La ecuación resultante es la de una línea recta:
     $$\frac{1}{V} = \left(\frac{K_m}{V_{max}}\right) \left(\frac{1}{[S]}\right) + \frac{1}{V_{max}}$$
-    ![Gráfico de Lineweaver-Burke mostrando la linealización de la cinética enzimática y la determinación de Km y Vmax](ruta/a/la/imagen_lineweaver_burke.png)
 
 * **Utilidad:** Es la herramienta visual estándar para **identificar y distinguir** los diferentes tipos de **inhibición enzimática** (competitiva, no competitiva, acompetitiva).
 
